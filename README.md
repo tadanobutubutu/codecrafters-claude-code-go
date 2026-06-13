@@ -16,6 +16,13 @@ calling, agent loop, and how to integrate multiple tools into an AI assistant.
 
 # Passing the first stage
 
+
+<!-- AUTO-PACKAGE-BADGES:START -->
+<!-- Auto-generated package badges -->
+
+![Go Reference](https://img.shields.io/github/v/tag/codecrafters-io/claude-code-starter-go?style=flat-square&logo=go&label=go.mod&color=00add8) [![Deployed](https://img.shields.io/badge/deployed-latest-blue?style=flat-square)](https://pkg.go.dev/github.com/codecrafters-io/claude-code-starter-go)
+
+<!-- AUTO-PACKAGE-BADGES:END -->
 The entry point for your `claude-code` implementation is in `app/main.go`. Study
 and uncomment the relevant code, and submit to pass the first stage:
 
